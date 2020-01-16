@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="393" height="775" viewBox="0 0 393 775">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M0,33.2A33.2,33.2,0,0,1,33.2,0H69.879A5,5,0,0,1,73.8,1.9L93.226,26.431c22.85.545,124.766.009,144.833.009L255.553,2.085A5,5,0,0,1,259.614,0h37.213a33.2,33.2,0,0,1,33.2,33.2V684.59a33.2,33.2,0,0,1-33.2,33.2H33.2A33.2,33.2,0,0,1,0,684.59Z" transform="translate(0.786 0.804)" fill="#fff" stroke="#1b61ad" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-Artboard_1">
+      <rect width="393" height="775"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard â 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="393" height="775" fill="#fff"/>
+    <g id="iPhone_X_Light" data-name="iPhone X Light" transform="translate(6 5)">
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(2.399 0.041)" fill="none" stroke="#8a8a8a" stroke-miterlimit="10" stroke-width="1">
+        <rect width="375.203" height="761.914" rx="53.6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="374.203" height="760.914" rx="53.1" fill="none"/>
+      </g>
+      <g id="Rectangle_3-2" data-name="Rectangle 3" transform="translate(9.995 8.302)" fill="none" stroke="#8a8a8a" stroke-miterlimit="10" stroke-width="1">
+        <rect width="358.609" height="744.397" rx="48.6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="357.609" height="743.397" rx="48.1" fill="none"/>
+      </g>
+      <g id="Screen" transform="translate(24 21)">
+        <path id="Mask-2" data-name="Mask" d="M0,33.2A33.2,33.2,0,0,1,33.2,0H69.879A5,5,0,0,1,73.8,1.9L93.226,26.431c22.85.545,124.766.009,144.833.009L255.553,2.085A5,5,0,0,1,259.614,0h37.213a33.2,33.2,0,0,1,33.2,33.2V684.59a33.2,33.2,0,0,1-33.2,33.2H33.2A33.2,33.2,0,0,1,0,684.59Z" transform="translate(0.786 0.804)" fill="rgba(255,255,255,0)" stroke="#8a8a8a" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <path id="button_4" data-name="button 4" d="M2,0h.4a0,0,0,0,1,0,0V55.815a0,0,0,0,1,0,0H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(0 226.46)" fill="#8a8a8a"/>
+      <path id="button_3" data-name="button 3" d="M2,0h.4a0,0,0,0,1,0,0V55.815a0,0,0,0,1,0,0H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(0 156.641)" fill="#8a8a8a"/>
+      <path id="button_2" data-name="button 2" d="M2,0h.4a0,0,0,0,1,0,0V29.41a0,0,0,0,1,0,0H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(0 102.026)" fill="#8a8a8a"/>
+      <path id="button_1" data-name="button 1" d="M0,0H.4a2,2,0,0,1,2,2V86.823a2,2,0,0,1-2,2H0Z" transform="translate(377.601 175.246)" fill="#8a8a8a"/>
+      <g id="speaker" transform="translate(167.112 27.407)" fill="none" stroke="#8a8a8a" stroke-miterlimit="10" stroke-width="1">
+        <rect width="43.177" height="6.002" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="42.177" height="5.002" rx="2.5" fill="none"/>
+      </g>
+      <ellipse id="camera" cx="5.997" cy="6.002" rx="5.997" ry="6.002" transform="translate(224.081 24.406)" fill="none" stroke="#8a8a8a" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Status_Bar" data-name="Status Bar" transform="translate(44 33)">
+        <g id="Battery" transform="translate(276.333 3)">
+          <g id="Border" transform="translate(0 0.307)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+            <rect width="20.24" height="10.427" rx="2.667" stroke="none"/>
+            <rect x="0.5" y="0.5" width="19.24" height="9.427" rx="2.167" fill="none"/>
+          </g>
+          <path id="Cap" d="M1.333,6.746A1.333,1.333,0,0,1,0,5.414V1.333A1.333,1.333,0,0,1,1.333,0H15.227A1.333,1.333,0,0,1,16.56,1.333V5.414a1.333,1.333,0,0,1-1.333,1.333ZM19.32,1.534a2,2,0,0,1,0,3.68Z" transform="translate(1.84 2.147)"/>
+        </g>
+        <path id="Wifi" d="M6.636,9.528a.272.272,0,0,1-.193-.081L4.707,7.7a.272.272,0,0,1,.008-.4,2.973,2.973,0,0,1,3.84,0,.272.272,0,0,1,.008.4L6.828,9.447A.275.275,0,0,1,6.636,9.528ZM9.683,6.454A.268.268,0,0,1,9.5,6.38a4.261,4.261,0,0,0-5.722,0A.27.27,0,0,1,3.4,6.375l-1-1.013a.279.279,0,0,1,0-.4,6.22,6.22,0,0,1,8.474,0,.279.279,0,0,1,.085.2.275.275,0,0,1-.081.2l-1,1.013A.269.269,0,0,1,9.683,6.454ZM1.276,4.121a.267.267,0,0,1-.19-.079l-1-1.014a.279.279,0,0,1,0-.4,9.469,9.469,0,0,1,13.1,0,.28.28,0,0,1,0,.4l-1,1.014a.268.268,0,0,1-.376,0,7.508,7.508,0,0,0-10.345,0A.267.267,0,0,1,1.276,4.121Z" transform="translate(259.027 3.331)"/>
+        <path id="Cellular" d="M14.117,9.412h-.882a.884.884,0,0,1-.883-.883V.882A.883.883,0,0,1,13.235,0h.882A.883.883,0,0,1,15,.882V8.529A.884.884,0,0,1,14.117,9.412ZM10,9.412H9.118a.884.884,0,0,1-.883-.883V2.941a.883.883,0,0,1,.883-.882H10a.883.883,0,0,1,.883.882V8.529A.884.884,0,0,1,10,9.412Zm-4.117,0H5a.884.884,0,0,1-.883-.883V5A.884.884,0,0,1,5,4.117h.882A.883.883,0,0,1,6.764,5V8.529A.883.883,0,0,1,5.882,9.412Zm-4.117,0H.882A.883.883,0,0,1,0,8.529V6.764a.883.883,0,0,1,.882-.882h.883a.883.883,0,0,1,.882.882V8.529A.883.883,0,0,1,1.765,9.412Z" transform="translate(240 3.667)"/>
+        <text id="_9:41" data-name="9:41" transform="translate(0.606 0.622)" font-size="14" font-family="SFUIText-Regular, SF UI Text" letter-spacing="-0.02em"><tspan x="5.563" y="13">11:05</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

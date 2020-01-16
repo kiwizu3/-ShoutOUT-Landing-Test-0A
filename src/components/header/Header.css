@@ -1,0 +1,194 @@
+.type-effect {
+     overflow: hidden;
+     white-space: nowrap;
+}
+.type-effect-sms:after {
+     content: "";
+     color: #fe7855;
+     animation: type-sms 1s linear;
+     animation-fill-mode: forwards;
+}
+
+@keyframes type-sms {
+     0% {
+          content: "S";
+     }
+     25% {
+          content: "SM";
+     }
+     50% {
+          content: "SMS";
+     }
+     100% {
+          content: "SMS";
+     }
+}
+
+.type-effect-email:after {
+     content: "";
+     color: #7755f2;
+     animation: type-email 1s linear;
+     animation-fill-mode: forwards;
+}
+@keyframes type-email {
+     0% {
+          content: "E";
+     }
+     12.5% {
+          content: "EM";
+     }
+     25% {
+          content: "EMA";
+     }
+     37.5% {
+          content: "EMAI";
+     }
+     50% {
+          content: "EMAIL";
+     }
+     100% {
+          content: "EMAIL";
+     }
+}
+
+.type-effect-whatsapp:after {
+     content: "";
+     color: #1cbd9c;
+     animation: type-whatsapp 1s linear;
+     animation-fill-mode: forwards;
+}
+@keyframes type-whatsapp {
+     0% {
+          content: "W";
+     }
+     14.285% {
+          content: "WH";
+     }
+     28.571% {
+          content: "WHA";
+     }
+     42.857% {
+          content: "WHAT";
+     }
+     57.142% {
+          content: "WHATS";
+     }
+     71.428% {
+          content: "WHATSA";
+     }
+     85.714% {
+          content: "WHATSAP";
+     }
+     100% {
+          content: "WHATSAPP";
+     }
+}
+
+.type-effect-messenger:after {
+     content: "";
+     color: #378ffd;
+     animation: type-messenger 1s linear;
+     animation-fill-mode: forwards;
+}
+
+@keyframes type-messenger {
+     0% {
+          content: "M";
+     }
+     12.5% {
+          content: "ME";
+     }
+     25% {
+          content: "MES";
+     }
+     37.5% {
+          content: "MESS";
+     }
+     50% {
+          content: "MESSE";
+     }
+     62.5% {
+          content: "MESSEN";
+     }
+     75% {
+          content: "MESSENG";
+     }
+     87.5% {
+          content: "MESSENGE";
+     }
+     100% {
+          content: "MESSENGER";
+     }
+}
+
+.sub-title {
+     width: 300px;
+}
+
+.phone {
+     height: 500px;
+     width: 100%;
+     background-image: url(./assets/images/phone.svg);
+     background-position: top;
+     background-size: cover;
+     background-repeat: no-repeat;
+     transform: rotate(15deg);
+}
+
+.phone-content {
+     top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+     display: block;
+     margin: auto;
+     animation: move 2s;
+     animation-iteration-count: infinite;
+}
+
+@keyframes move {
+     0% {
+          transform: translateY(-100px);
+          opacity: 0;
+     }
+     80% {
+          transform: translateY(0px);
+          opacity: 1;
+     }
+     100% {
+          transform: translateY(100px);
+          opacity: 0;
+     }
+}
+
+::-webkit-scrollbar {
+     display: none;
+}
+
+.card {
+     white-space: nowrap;
+     margin: 1rem;
+}
+
+.overflow-scroll {
+     overflow: scroll;
+}
+
+.top-right-0 {
+     top: 0rem;
+     right: 0rem;
+}
+
+.line-height-12 {
+     line-height: 1.2;
+}
+
+@media (max-width: 768px) {
+     .phone {
+          transform: rotate(0);
+          height: 300px;
+     }
+     .h-sm-75 {
+          height: 75% !important;
+     }
+}

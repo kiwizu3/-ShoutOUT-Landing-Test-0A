@@ -1,0 +1,15 @@
+html,
+body,
+#root {
+     height: 100%;
+}
+
+.App {
+     font-family: "Poppins", sans-serif;
+     text-align: center;
+}
+
+.btn:focus {
+     outline: 0;
+     box-shadow: 0 0 0 0rem rgba(0, 0, 0, 0);
+}

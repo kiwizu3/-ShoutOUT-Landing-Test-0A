@@ -1,0 +1,30 @@
+.product-image{
+  animation-duration: 1s, 1s;
+  animation-delay: 0s, 1s;
+  animation-name: fadeOut, fadeIn;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100%{
+    opacity: 0;
+  }
+}
+
+.browser-top{
+  height: 72px;
+  width: 1098px;
+  background-image: url(./assets/images/browser-top.svg);
+
+}
